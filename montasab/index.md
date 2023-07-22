@@ -1,5 +1,4 @@
 ---
-_path: /hafez/montasab
 title: >-
     اشعار منتسب
 ---

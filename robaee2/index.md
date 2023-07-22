@@ -1,5 +1,4 @@
 ---
-_path: /hafez/robaee2
 title: >-
     رباعیات
 ---

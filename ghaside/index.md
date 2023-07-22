@@ -1,5 +1,4 @@
 ---
-_path: /hafez/ghaside
 title: >-
     قصاید
 ---
